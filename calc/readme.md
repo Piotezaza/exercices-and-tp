@@ -1,4 +1,4 @@
-# TODO
+# TODO JS
 
 Dans le champ input, une valeur **numérique** sera entrée (par exemple `48569971`).
 Lorsque l'on clique sur le bouton, le modal s'ouvre.
